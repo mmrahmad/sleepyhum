@@ -1,0 +1,13 @@
+{
+	"colors": {
+		"primaryMain": "#e84393",
+		"primaryLight": "#e84393",
+		"primaryDark": "#98005F",
+		"secondaryLight": "#9462A8",
+		"secondaryDark": "#491575"
+	},
+	"fonts": {
+		"primary": "Poppins', sans-serif",
+		"secondary": "'Open Sans', sans-serif"
+	}
+}
