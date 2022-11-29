@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    @apply text-gray-700;
+}
+
+body,
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h3,
+button,
+.menu,
+.title {
+    font-family: 'Poppins', sans-serif;
+}
